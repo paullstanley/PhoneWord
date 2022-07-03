@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{FBEC8DBD-6552-40B5-A562-7EEF2DC16F8F}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Phoneword.csproj">
+    <Files>
+      <File FileName="MainPage.xaml.cs" Line="14" Column="11" />
+      <File FileName="MainPage.xaml" Line="12" Column="19" />
+      <File FileName="MauiProgram.cs" Line="20" Column="1" />
+      <File FileName="AppShell.xaml.cs" Line="1" Column="1" />
+      <File FileName="AppShell.xaml" Line="1" Column="1" />
+      <File FileName="Phoneword.csproj" Line="6" Column="91" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Phoneword.App" expanded="True">
+            <Node name="Phoneword" expanded="True" selected="True">
+              <Node name="Resources" expanded="True">
+                <Node name="AppIcon" expanded="True" />
+                <Node name="Fonts" expanded="True" />
+                <Node name="Images" expanded="True" />
+                <Node name="Raw" expanded="True" />
+                <Node name="Splash" expanded="True" />
+                <Node name="Styles" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="AppShell.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Phoneword PreferredExecutionTarget="MyAppleMacCatalystID" />
+</Properties>
